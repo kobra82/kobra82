@@ -1,3 +1,5 @@
+# About me
+
 Programmo già alle medie, in particolare programmazione web full stack ma anche linguaggi C-like
 e non; ho realizzato diverse applicazioni "tradizionali" su disparati web hosting, prima di approdare
 su WordPress, ultimamente sono passato all'approccio SPA e PWA, ho creato diverse app in
