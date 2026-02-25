@@ -1,8 +1,8 @@
 # About me
 
-Programmo già alle medie, in particolare programmazione web full stack ma anche linguaggi C-like
-e non; ho realizzato diverse applicazioni "tradizionali" su disparati web hosting, prima di approdare
-su WordPress, ultimamente sono passato all'approccio SPA e PWA, ho creato diverse app in
-JavaScript on premise; risolvo problemi di natura software e hardware già dal liceo; Impartisco
-lezioni di matematica (candidati presentati all'Esame di Stato), fisica ed informatica dall'Università;
-sono un fervente sostenitore della metodologia Agile, del lavoro di squadra, come del LLL.
+Tecnico informatico con esperienza nella gestione di infrastrutture IT, configurazione di
+applicazioni e supporto team. Sistemista specializzato in installazione software,
+monitoraggio reti e risoluzione guasti, con approccio metodico per garantire efficienza
+operativa e aggiornamenti costanti. Programmatore in svariati linguaggi con oltre 20 anni
+di esperienza, disponibile per ruoli in team dinamici, con competenze in ambienti
+Windows e Linux
